@@ -1,0 +1,6 @@
+#python=3.10,windows,conda env
+pandas
+numpy
+python-docx
+bayoo-docx
+python-dotenv
